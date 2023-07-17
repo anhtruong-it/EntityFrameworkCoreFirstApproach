@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCore", "EntityFrameworkCore\EntityFrameworkCore.csproj", "{7F7EC867-BE7B-4963-92ED-81795E8B0D32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreIdentityApplication", "coreIdentityApplication\coreIdentityApplication.csproj", "{C8C46EFD-97F6-4E9C-B29E-5DD9A504EBC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7F7EC867-BE7B-4963-92ED-81795E8B0D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F7EC867-BE7B-4963-92ED-81795E8B0D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F7EC867-BE7B-4963-92ED-81795E8B0D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C46EFD-97F6-4E9C-B29E-5DD9A504EBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C46EFD-97F6-4E9C-B29E-5DD9A504EBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C46EFD-97F6-4E9C-B29E-5DD9A504EBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C46EFD-97F6-4E9C-B29E-5DD9A504EBC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
